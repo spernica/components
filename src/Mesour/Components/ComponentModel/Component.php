@@ -14,7 +14,7 @@ use Mesour;
 /**
  * @author Matouš Němec <http://mesour.com>
  */
-abstract class Component extends Mesour\Object implements IComponent
+abstract class Component extends Mesour\MObject implements IComponent
 {
 
 	private $name;

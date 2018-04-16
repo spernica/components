@@ -14,7 +14,7 @@ use Mesour;
 /**
  * @author Matouš Němec <http://mesour.com>
  */
-abstract class RulesContainer extends Mesour\Object
+abstract class RulesContainer extends Mesour\MObject
 {
 
 	/** @var IRule[] */

@@ -14,7 +14,7 @@ use Mesour;
 /**
  * @author Matouš Němec <http://mesour.com>
  */
-class Request extends Mesour\Object
+class Request extends Mesour\MObject
 {
 
 	private $request = [];

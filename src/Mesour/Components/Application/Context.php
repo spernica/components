@@ -14,7 +14,7 @@ use Mesour;
 /**
  * @author Matouš Němec <http://mesour.com>
  */
-class Context extends Mesour\Object
+class Context extends Mesour\MObject
 {
 
 	/**

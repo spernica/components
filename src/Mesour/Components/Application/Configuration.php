@@ -14,7 +14,7 @@ use Mesour;
 /**
  * @author Matouš Němec <http://mesour.com>
  */
-class Configuration extends Mesour\Object
+class Configuration extends Mesour\MObject
 {
 
 	protected $parameters = [];

@@ -14,7 +14,7 @@ use Mesour;
 /**
  * @author Matouš Němec <http://mesour.com>
  */
-abstract class Rule extends Mesour\Object implements IRule
+abstract class Rule extends Mesour\MObject implements IRule
 {
 
 	private $name;
